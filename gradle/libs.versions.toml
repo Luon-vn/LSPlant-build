@@ -1,0 +1,5 @@
+[versions]
+cxxver = "27.0.12077973"
+
+[libraries]
+cxx = { group = "org.lsposed.libcxx", name = "libcxx", version.ref = "cxxver" }
